@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\bin\Debug\netcoreapp2.2\CargosComSwitch.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\bin\Debug\netcoreapp2.2\CargosComSwitch.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\bin\Debug\netcoreapp2.2\CargosComSwitch.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\bin\Debug\netcoreapp2.2\CargosComSwitch.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\bin\Debug\netcoreapp2.2\CargosComSwitch.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\obj\Debug\netcoreapp2.2\CargosComSwitch.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\obj\Debug\netcoreapp2.2\CargosComSwitch.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\obj\Debug\netcoreapp2.2\CargosComSwitch.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\obj\Debug\netcoreapp2.2\CargosComSwitch.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\obj\Debug\netcoreapp2.2\CargosComSwitch.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\CargosComSwitch\obj\Debug\netcoreapp2.2\CargosComSwitch.pdb

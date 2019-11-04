@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2{
+    font-family: 'Permanent Marker';
+}
+p{
+    font-family: 'chilanka';
+}
+
+.topo{
+    width: 100%;
+    height: 130px;
+    background: rgb(14, 197, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topo img{
+    width: 80px;
+    height: 80px;   
+}
+
+.banner{
+    background: url('../Imagens/banner.jpg') center center;
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.banner h1{
+    text-transform: uppercase;
+    color: white;
+    font-size: 110px;
+    position: absolute;
+    top: 30%;
+    left: 20.5%;
+    text-shadow: 2px 2px rgba(100, 98, 98, 0.849);
+    letter-spacing: 20px;
+}
+
+.banner a{
+    position: absolute;
+    top: 60%;
+    left: 43.5%;
+    background: white;
+    color: rgb(14, 197, 230);
+    padding: 20px 50px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.banner a:hover{
+    text-decoration: rgb(255, 255, 255);
+    text-decoration-line: underline;
+    color: white;
+    background: rgb(14, 197, 230);
+    transition: 1.0s;
+}
+
+.text{
+    padding: 50px;
+}
+
+.preços{
+    font-size: 30px;
+    height: 500px;
+}
+
+.preços h2{
+    text-align: center;
+    height: 90px; 
+    padding-top: 40px;
+    color: purple;
+    text-decoration-line: underline;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 50px;
+    color: black;
+}
+
+td{
+    text-align: center;
+    width: 300px;
+} 
+
+th{
+    color: rgb(14, 197, 230);
+}
+
+.table{
+    width: 800px;
+    margin:0 auto;
+}

@@ -1,0 +1,111 @@
+        body {
+        background-color: #F7EBDE;
+    }
+    
+    header {
+        margin: auto; /*Margem*/
+    }
+    
+    .banner {
+        width: 1366px; /*Largura*/
+        margin: 0 auto;
+        
+    }
+
+    .banner img {
+        width: 1366px;
+        margin: 0 auto;
+    }
+
+    .Logo {
+        float: left; /*Imagem flutuante*/
+        width: 100px;
+        height: 100px; /*Altura*/
+        padding-left: 5%; /*Distanciamento da margem*/
+    }
+    
+    .Logo2 {
+        float: right;
+        width: 100px;
+        height: 100px;
+        padding-right:5%;
+    }
+    
+    .menu ul {
+        margin: 0;
+        padding: 0;
+        display: flex; /*Soltar a imagem para poder mover. O flex deixa livre*/
+        list-style: none;
+        justify-content: space-around; /*Justifica o conteúdo*/
+        align-items: center;
+        height: 100px;
+    }
+    
+    .menu a {
+        text-decoration: none;
+        color: rgb(3, 1, 1);
+        font-family: Verdana, Segoe UI, Sans-serif;
+        font-size: 24px;
+        padding: 15px 30px;
+    }
+    
+    .menu a:hover {
+        text-decoration: underline;
+        text-decoration-color: rgb(223, 5, 107);
+        color: rgb(223, 5, 107);
+    }
+    
+    .topo {
+        width: 1366px;
+        height: 100px;
+        background-color: rgba(255, 153, 0, 0.514);
+    }
+    
+    .menu {
+        width: 900px;
+        height: 50px;
+        background-color: rgba(253, 93, 0, 0.459);
+        margin: auto;
+        align-items: center;
+        height: 100px;
+    }
+
+    .receita {
+        text-align: center; 
+    }
+
+    .imagem {
+        display: flex;
+        justify-content: center;
+        margin-top: 35px;
+    }
+
+    .imagem img{
+        width: 473px;
+        height: 316px;
+    }
+    .receita ul {
+        list-style-position: inside;
+        text-justify: auto;
+        text-align: center;
+        text-indent: -5%;
+    }
+
+    .receita footer {
+        text-align: center;
+        font-size: 24px;
+        font-style: oblique;
+     }
+    
+    .receita article {
+        text-align: center
+    }
+    
+    .receita h1 {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+    
+    .receita h2 {
+        font-size: 18px;
+    }

@@ -1,0 +1,3 @@
+cor: #0095C8
+
+font: roboto

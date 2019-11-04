@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\obj\Debug\netcoreapp2.2\Validação.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\obj\Debug\netcoreapp2.2\Validação.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\obj\Debug\netcoreapp2.2\Validação.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\obj\Debug\netcoreapp2.2\Validação.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\bin\Debug\netcoreapp2.2\Validação.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\bin\Debug\netcoreapp2.2\Validação.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\bin\Debug\netcoreapp2.2\Validação.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\bin\Debug\netcoreapp2.2\Validação.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\bin\Debug\netcoreapp2.2\Validação.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\obj\Debug\netcoreapp2.2\Validação.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\Validação\obj\Debug\netcoreapp2.2\Validação.pdb

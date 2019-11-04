@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\obj\Debug\netcoreapp2.2\Exercício1.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\obj\Debug\netcoreapp2.2\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\obj\Debug\netcoreapp2.2\Exercício1.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\obj\Debug\netcoreapp2.2\Exercício1.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\bin\Debug\netcoreapp2.2\Exercício1.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\bin\Debug\netcoreapp2.2\Exercício1.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\bin\Debug\netcoreapp2.2\Exercício1.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\bin\Debug\netcoreapp2.2\Exercício1.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\bin\Debug\netcoreapp2.2\Exercício1.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\obj\Debug\netcoreapp2.2\Exercício1.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\vetores\Exercício1\obj\Debug\netcoreapp2.2\Exercício1.pdb

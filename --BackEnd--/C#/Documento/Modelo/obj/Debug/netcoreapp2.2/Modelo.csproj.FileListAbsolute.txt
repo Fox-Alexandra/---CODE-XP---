@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\bin\Debug\netcoreapp2.2\Modelo.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\bin\Debug\netcoreapp2.2\Modelo.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\bin\Debug\netcoreapp2.2\Modelo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\bin\Debug\netcoreapp2.2\Modelo.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\bin\Debug\netcoreapp2.2\Modelo.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\obj\Debug\netcoreapp2.2\Modelo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\obj\Debug\netcoreapp2.2\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\obj\Debug\netcoreapp2.2\Modelo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\obj\Debug\netcoreapp2.2\Modelo.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\obj\Debug\netcoreapp2.2\Modelo.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\Document\Modelo\obj\Debug\netcoreapp2.2\Modelo.pdb

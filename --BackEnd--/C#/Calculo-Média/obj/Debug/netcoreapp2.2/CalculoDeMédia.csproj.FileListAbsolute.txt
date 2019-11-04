@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\c#\CalculoDeMédia\bin\Debug\netcoreapp2.2\CalculoDeMédia.deps.json
+C:\Users\fic\Desktop\c#\CalculoDeMédia\bin\Debug\netcoreapp2.2\CalculoDeMédia.runtimeconfig.json
+C:\Users\fic\Desktop\c#\CalculoDeMédia\bin\Debug\netcoreapp2.2\CalculoDeMédia.runtimeconfig.dev.json
+C:\Users\fic\Desktop\c#\CalculoDeMédia\bin\Debug\netcoreapp2.2\CalculoDeMédia.dll
+C:\Users\fic\Desktop\c#\CalculoDeMédia\bin\Debug\netcoreapp2.2\CalculoDeMédia.pdb
+C:\Users\fic\Desktop\c#\CalculoDeMédia\obj\Debug\netcoreapp2.2\CalculoDeMédia.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\c#\CalculoDeMédia\obj\Debug\netcoreapp2.2\CalculoDeMédia.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\c#\CalculoDeMédia\obj\Debug\netcoreapp2.2\CalculoDeMédia.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\c#\CalculoDeMédia\obj\Debug\netcoreapp2.2\CalculoDeMédia.AssemblyInfo.cs
+C:\Users\fic\Desktop\c#\CalculoDeMédia\obj\Debug\netcoreapp2.2\CalculoDeMédia.dll
+C:\Users\fic\Desktop\c#\CalculoDeMédia\obj\Debug\netcoreapp2.2\CalculoDeMédia.pdb

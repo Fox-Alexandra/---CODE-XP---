@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Modelo\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Modelo\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Modelo\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Modelo\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\POO\Senai.POO.CadastroDeAlunos.SomenteModel.Models\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.pdb

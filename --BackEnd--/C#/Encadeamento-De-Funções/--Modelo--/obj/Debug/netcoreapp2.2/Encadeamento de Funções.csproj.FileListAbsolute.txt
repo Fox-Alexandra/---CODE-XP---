@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\bin\Debug\netcoreapp2.2\Encadeamento de Funções.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\bin\Debug\netcoreapp2.2\Encadeamento de Funções.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\bin\Debug\netcoreapp2.2\Encadeamento de Funções.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\bin\Debug\netcoreapp2.2\Encadeamento de Funções.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\bin\Debug\netcoreapp2.2\Encadeamento de Funções.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\obj\Debug\netcoreapp2.2\Encadeamento de Funções.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\obj\Debug\netcoreapp2.2\Encadeamento de Funções.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\obj\Debug\netcoreapp2.2\Encadeamento de Funções.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\obj\Debug\netcoreapp2.2\Encadeamento de Funções.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\obj\Debug\netcoreapp2.2\Encadeamento de Funções.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\EncadeamentoDeFunções\obj\Debug\netcoreapp2.2\Encadeamento de Funções.pdb

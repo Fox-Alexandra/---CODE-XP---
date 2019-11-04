@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\Condicional\bin\Debug\netcoreapp2.2\Condicional.deps.json
+C:\Users\fic\Desktop\C#\Condicional\bin\Debug\netcoreapp2.2\Condicional.runtimeconfig.json
+C:\Users\fic\Desktop\C#\Condicional\bin\Debug\netcoreapp2.2\Condicional.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\Condicional\bin\Debug\netcoreapp2.2\Condicional.dll
+C:\Users\fic\Desktop\C#\Condicional\bin\Debug\netcoreapp2.2\Condicional.pdb
+C:\Users\fic\Desktop\C#\Condicional\obj\Debug\netcoreapp2.2\Condicional.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\Condicional\obj\Debug\netcoreapp2.2\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\Condicional\obj\Debug\netcoreapp2.2\Condicional.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\Condicional\obj\Debug\netcoreapp2.2\Condicional.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\Condicional\obj\Debug\netcoreapp2.2\Condicional.dll
+C:\Users\fic\Desktop\C#\Condicional\obj\Debug\netcoreapp2.2\Condicional.pdb
